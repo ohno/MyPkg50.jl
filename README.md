@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/ohno/MyPkg50.jl)](LICENSE)
 [![License](https://img.shields.io/github/license/ohno/MyPkg50.jl)](https://github.com/ohno/MyPkg50.jl/blob/main/LICENSE)
 [![License](https://badgen.net/github/license/ohno/MyPkg50.jl)](https://github.com/ohno/MyPkg50.jl/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ohno/MyPkg50.jl.svg?cacheSeconds=3600)](https://github.com/ohno/MyPkg50.jl/blob/main/LICENSE)
 [![Build Status](https://github.com/ohno/MyPkg50.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/ohno/MyPkg50.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/ohno/MyPkg50.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/ohno/MyPkg50.jl)
 [![Aqua QA](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
